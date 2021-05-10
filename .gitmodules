@@ -1,0 +1,3 @@
+[submodule "sbecc-c"]
+	path = sbecc-c
+	url = https://github.com/sbecc/sbecc-c
